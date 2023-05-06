@@ -1,0 +1,13 @@
+{
+    "cSpell.words": [
+        "Arman"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files (x86)\\MySQL\\Connector J 8.0\\mysql-connector-j-8.0.33.jar"
+    ],
+    "files.associations": {
+        "_mingw.h": "c",
+        "stdlib.h": "c"
+    }
+}
